@@ -2,7 +2,7 @@
 
 <img src="https://i.ibb.co/qCh7nvF/youtube-clone.png">
 
-With this YoutTube clone, you can search for videos, view video content and channel content, visit profile pages and more.<br>
+With this YoutTube clone, you can search for videos, view video content and channel content, profile pages and more.<br>
 This project requires the RapidAPI VSCode extension, along with an API key for YouTube V3 API from <a href="https://RapidAPI.com/">RapidAPI.com</a>
 
 ## What's Included?
