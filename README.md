@@ -1,6 +1,7 @@
-# Getting Started with Create React App
+# YouTube React Clone
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+With this YoutTube clone, you can search for videos, view video content and channel content, visit profile pages and more.<br>
+This project requires the RapidAPI VSCode extension, along with an API key for YouTube V3 API from <a href="https://RapidAPI.com/">RapidAPI.com</a>
 
 ## Available Scripts
 
