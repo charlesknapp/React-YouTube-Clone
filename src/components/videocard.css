@@ -1,0 +1,8 @@
+#videoCardContent:hover {
+    transform: scale(1.02);
+    transition: 0.2s;
+    box-shadow: 0 0 10px rgba(211, 211, 211, 0.336);
+}
+#videoCardContent {
+    transition: 0.2s;
+}
