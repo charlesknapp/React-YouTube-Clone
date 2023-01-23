@@ -1,7 +1,22 @@
 # YouTube React Clone
 
+<img src="https://i.ibb.co/qCh7nvF/youtube-clone.png">
+
 With this YoutTube clone, you can search for videos, view video content and channel content, visit profile pages and more.<br>
 This project requires the RapidAPI VSCode extension, along with an API key for YouTube V3 API from <a href="https://RapidAPI.com/">RapidAPI.com</a>
+
+## What's Included?
+
+Loader = This is a simple loader for view swaps and loaded functions.
+ChannelCard = Shows the functions when browsing someone's YouTube profile page. Includes the user's profile image, subscriber count, and videos.
+ChannelDetail = Contains the full profile view. This includes the ChannelCard view from above and the Videos component.
+Feed = This is the main page for the script. Contains the video feeds for each specified category option.
+Navbar = Contains the SearchBox component, along with the Logo. You can add whatever you'd like!
+SearchBar = This is the component for the search functionality. Search all YouTube content with this bar.
+SearchFeed = This is the component that displays the search results from the SearchBox.
+Sidebar = This is the component that houses the category pills and options.
+VideoCard = This is the component for the video content information. Contains the video image, title, views and more.
+VideoDetail = This houses the main video view and the components within. Shows the video, views, title, and recommended videos.
 
 ## Available Scripts
 
