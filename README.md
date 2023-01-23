@@ -28,7 +28,7 @@ This is the component for the video content information. Contains the video imag
 <b>VideoDetail</b><br>
 This houses the main video view and the components within. Shows the video, views, title, and recommended videos.<br><br>
 
-## Available Scripts
+## Installing Script Locally
 
 In the project directory, you can run:
 
