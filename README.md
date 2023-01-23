@@ -8,25 +8,25 @@ This project requires the RapidAPI VSCode extension, along with an API key for Y
 ## What's Included?
 
 <b>Loader</b><br>
-> This is a simple loader for view swaps and loaded functions.<br><br>
+- This is a simple loader for view swaps and loaded functions.<br><br>
 <b>ChannelCard</b><br>
-> Shows the functions when browsing someone's YouTube profile page. Includes the user's profile image, subscriber count, and videos.<br><br>
+- Shows the functions when browsing someone's YouTube profile page. Includes the user's profile image, subscriber count, and videos.<br><br>
 <b>ChannelDetail</b><br>
-> Contains the full profile view. This includes the ChannelCard view from above and the Videos component.<br><br>
+- Contains the full profile view. This includes the ChannelCard view from above and the Videos component.<br><br>
 <b>Feed</b><br>
-> This is the main page for the script. Contains the video feeds for each specified category option.<br><br>
+- This is the main page for the script. Contains the video feeds for each specified category option.<br><br>
 <b>Navbar</b><br>
-> Contains the SearchBox component, along with the Logo. You can add whatever you'd like!<br><br>
+- Contains the SearchBox component, along with the Logo. You can add whatever you'd like!<br><br>
 <b>SearchBar</b><br>
-> This is the component for the search functionality. Search all YouTube content with this bar.<br><br>
+- This is the component for the search functionality. Search all YouTube content with this bar.<br><br>
 <b>SearchFeed</b><br>
-> This is the component that displays the search results from the SearchBox.<br><br>
+- This is the component that displays the search results from the SearchBox.<br><br>
 <b>Sidebar</b><br>
-> This is the component that houses the category pills and options.<br><br>
+- This is the component that houses the category pills and options.<br><br>
 <b>VideoCard</b><br>
-> This is the component for the video content information. Contains the video image, title, views and more.<br><br>
+- This is the component for the video content information. Contains the video image, title, views and more.<br><br>
 <b>VideoDetail</b><br>
-> This houses the main video view and the components within. Shows the video, views, title, and recommended videos.<br><br>
+- This houses the main video view and the components within. Shows the video, views, title, and recommended videos.<br><br>
 
 ## Installing Script Locally
 
