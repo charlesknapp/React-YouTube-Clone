@@ -6,3 +6,12 @@
 #videoCardContent {
     transition: 0.2s;
 }
+
+@media screen and (max-width: 468px) {
+    #videoCardContent {
+        width: 384px;
+        display: flex;
+        flex-direction: column;
+        align-content: center;
+    }
+}

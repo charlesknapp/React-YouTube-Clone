@@ -3,6 +3,7 @@ import { useNavigate } from "react-router-dom";
 import { Paper, IconButton } from '@mui/material';
 import SearchIcon from '@mui/icons-material/Search';
 import { Link } from "react-router-dom";
+import './searchbar.css'
 
 const SearchBar = () => {
   const [searchTerm, setSearchTerm] = useState('');
@@ -29,7 +30,7 @@ const SearchBar = () => {
         boxShadow: 'none',
         mr: { sm: 5 },
       }}
-    >
+     id="searcBarContainer">
       <input
         className='search-bar'
         placeholder='Search...'

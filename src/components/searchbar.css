@@ -1,0 +1,7 @@
+@media screen and (max-width: 468px) {
+    #searcBarContainer {
+        max-height: 34px;
+        display: flex;
+        align-items: center;
+    }
+}
