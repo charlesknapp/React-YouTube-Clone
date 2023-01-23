@@ -30,6 +30,9 @@ This houses the main video view and the components within. Shows the video, view
 
 ## Installing Script Locally
 
+Make sure to enter your RapidAPI YouTube key into the `.env.example` file provided.<br>
+Change the file name to `.env` when finished.
+
 In the project directory, you can run:
 
 ### `npm start`
