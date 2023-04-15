@@ -1,6 +1,6 @@
 # YouTube React Clone
 
-<img src="https://i.ibb.co/qCh7nvF/youtube-clone.png">
+<img src="https://raw.githubusercontent.com/charlesknapp/React-YouTube-Clone/main/youtube-demo-charlesk.png">
 
 With this YoutTube clone, you can search for videos, view video content and channel content, profile pages and more.<br>
 This project requires the RapidAPI VSCode extension, along with an API key for YouTube V3 API from <a href="https://RapidAPI.com/">RapidAPI.com</a>
